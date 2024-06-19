@@ -1,0 +1,24 @@
+html {
+  background: #282a36;
+  font-family: monospace;
+  color: #f8f8f2;
+}
+body {
+  margin: 20px;
+  max-width: 40em;
+}
+h1 {
+  color: #bd93f9;
+}
+a {
+  color: #f1fa8c;
+}
+h2 {
+  color: #8be9fd;
+}
+ul {
+  list-style-type: none;
+}
+li::marker {
+  color: white;
+}
